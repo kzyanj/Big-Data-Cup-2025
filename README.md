@@ -43,7 +43,7 @@
   <li>X Coordinate (x-coordinate of where an event occurred on the ice, between -100 and 100)</li>
   <li>Y Coordinate (y-coordinate of where an event occurred on the ice, between -42.5 and 42.5)</li>
     <ul>
-      <li>Coordinates are from the perspective of the camera</li>
+      <li>Coordinates are from the perspective of the camera - index of team orientation in camera_orientations.csv</li>
     </ul>
   </li>
   </ul>
