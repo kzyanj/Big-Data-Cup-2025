@@ -72,7 +72,6 @@ minimum value of -12.95.
 8. Rink Location Z (Meters): This column is always “1” for players and “0.02” for the puck, other than when a goal is scored. When a goal is scored, it’s the 
 “Z” position of the puck (how high off the ice the puck is, in meters). 
 9. Goal Score: If a goal is scored, this column will be “G” for 1 “Puck” row around when the puck enters the goal. For all other rows, it will be empty.  
-A diagram describing Rink Location X and Rink Location Y is on the following page…
 
 <br>
 
