@@ -8,4 +8,4 @@
 </ol>
 
 <p> Example: R </p>
-<p> data <- read.csv("https://raw.githubusercontent.com/bigdatacup/Big-Data-Cup-2021/main/hackathon_scouting.csv") </p> 
+<p> data <- read.csv("https://raw.githubusercontent.com/bigdatacup/Big-Data-Cup-2025/main/file.csv") </p> 
