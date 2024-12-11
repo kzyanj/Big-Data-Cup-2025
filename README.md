@@ -20,13 +20,11 @@
 <h2>Downloading the Data</h2>
 <p>https://github.com/bigdatacup/Big-Data-Cup-2025/releases/tag/Data</p>
 
-<p>Examples
-Event Data: 2024-10-13.Team.B.@.Team.A.-.Events.csv
-Tracking Data: 2024-10-13.Team.B.@.Team.A.-.Tracking.csv
-Shifts Data: 2024-10-13.Team.B.@.Team.A.-.Shifts.csv
-Camera Orientation (for coordinates): camera_orientations.csv
-</p>
-
+<p>Examples</p>
+<p>Event Data: 2024-10-13.Team.B.@.Team.A.-.Events.csv</p>
+<p>Tracking Data: 2024-10-13.Team.B.@.Team.A.-.Tracking.csv</p>
+<p>Shifts Data: 2024-10-13.Team.B.@.Team.A.-.Shifts.csv</p>
+<p>Camera Orientation (for coordinates): camera_orientations.csv</p>
 
 <h2>Event Data</h2>
 <ul>
