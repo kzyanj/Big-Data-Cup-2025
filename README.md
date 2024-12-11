@@ -60,7 +60,7 @@
 
 <br>
 
-<h2>Tracking Data from Broadcast Video</h2>
+<h2>Tracking Data</h2>
 
 Tracking Data Definitions: 
 1. Image Id: A unique identifier for the game from which the player data was extracted 
