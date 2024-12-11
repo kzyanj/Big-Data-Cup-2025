@@ -68,12 +68,27 @@ Tracking Data Definitions:
 3. Game Clock: Game Clock of the game 
 4. Player or Puck: “Player” if the row refers to a player, “Puck” if the row refers to the puck 
 5. Team: One of “Home”, “Away”, or “n/a” (if the puck) 
-6. Player Id: The jersey number of the tracked player. Every row for a specific Player Id will have the same jersey number. Player Jersey 
+6. Player Id: The ID or jersey number of the tracked player. Every row for a specific Player Id will have the same jersey number. Player Jersey 
 Number is blank if the tracked player’s jersey number couldn’t be identified. 
 7. Rink Location X (Feet), Rink Location Y (Feet)
 8. Rink Location Z (Feet): This column is always “1” for players and “0.02” for the puck, other than when a goal is scored. When a goal is scored, it’s the 
 “Z” position of the puck (how high off the ice the puck is, in feet). 
 9. Goal Score: If a goal is scored, this column will be “G” for 1 “Puck” row around when the puck enters the goal. For all other rows, it will be empty.  
+
+<br>
+
+<h2>Shifts Data</h2>
+
+Shifts Data Definitions: 
+1.  Date: Date of the game
+2.  game_name: ID of the game
+3.  team_name: ID of the team
+4.  Player_Id: ID of the player
+5.  shift_number: Shift number (in increasing order) for each player
+6.  period: Period of the shift (range from 1-3 for regulation, 4+ for overtime)
+7.  start_clock: Starting clock time of the shift (e.g. ‘19:34’. Format = ‘mm:ss’)
+8.  end_clock: Ending clock time of the shift (e.g. ‘19:34’. Format = ‘mm:ss’)
+9.  shift_length: Duration of the shift (e.g. ‘19:34’. Format = ‘mm:ss’)
 
 <br>
 
