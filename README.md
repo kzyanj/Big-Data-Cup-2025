@@ -17,9 +17,8 @@
 <h2>Summary</h2>
 <p>The dataset is comprised of Stathletes-tracked hockey event data from the AHL, as well as player tracking data generated from broadcast video. The included events have been translated from Stathletes’ raw data to enhance accessibility and interpretability. The various event types include shots, plays, takeaways, puck recoveries, dump ins, dump outs, zone entries, faceoffs and penalties. Event definitions may slightly differ from other sources. For each event, expanded details are provided and the relevant skaters and teams involved are indicated when necessary.</p>
 
-<h2>Downloading the Data
-[Data Folder](../main/pxp_womens_oly_2022_v2.csv)
-</h2>
+<h2>Downloading the Data</h2>
+<p>https://github.com/bigdatacup/Big-Data-Cup-2025/releases/tag/Data</p>
 
 <h2>Event Data</h2>
 <ul>
