@@ -64,13 +64,9 @@ Tracking Data Definitions:
 5. Team: One of “Home”, “Away”, or “n/a” (if the puck) 
 6. Player Id: The jersey number of the tracked player. Every row for a specific Player Id will have the same jersey number. Player Jersey 
 Number is blank if the tracked player’s jersey number couldn’t be identified. 
-7. Rink Location X (Meters), Rink Location Y (Meters): An NHL Rink is 60.96 meters wide and 25.9 meters tall (200 by 85 feet). The Reap data considers 
-center ice to be X = 0, Y = 0. The ride side of the rink (from the perspective of the camera) is X Positive, with a maximum value of 30.48, and the left side 
-of the rink (from the perspective of the camera) is X Negative, with a minimum value of -30.48. The top / far side of the rink (from the perspective of the 
-camera) is Y Positive, with a maximum value of 12.95, and the bottom / near side of the rink (from the perspective of the camera) is Y Negative, with a 
-minimum value of -12.95. 
-8. Rink Location Z (Meters): This column is always “1” for players and “0.02” for the puck, other than when a goal is scored. When a goal is scored, it’s the 
-“Z” position of the puck (how high off the ice the puck is, in meters). 
+7. Rink Location X (Feet), Rink Location Y (Feet)
+8. Rink Location Z (Feet): This column is always “1” for players and “0.02” for the puck, other than when a goal is scored. When a goal is scored, it’s the 
+“Z” position of the puck (how high off the ice the puck is, in feet). 
 9. Goal Score: If a goal is scored, this column will be “G” for 1 “Puck” row around when the puck enters the goal. For all other rows, it will be empty.  
 
 <br>
