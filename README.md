@@ -17,14 +17,6 @@
 <h2>Summary</h2>
 <p>The dataset is comprised of Stathletes-tracked hockey event data from the AHL, as well as player tracking data generated from broadcast video. The included events have been translated from Stathletes’ raw data to enhance accessibility and interpretability. The various event types include shots, plays, takeaways, puck recoveries, dump ins, dump outs, zone entries, faceoffs and penalties. Event definitions may slightly differ from other sources. For each event, expanded details are provided and the relevant skaters and teams involved are indicated when necessary.</p>
 
-<br>
-
-<h2>Tracking Data from Broadcast Video</h2>
-
-
-
-<br>
-
 <h2>Contextual (Event) Data</h2>
 
 [International Games](../main/pxp_womens_oly_2022_v2.csv) | [NCAA Games](../main/hackathon_womens.csv) | [NWHL Games](../main/hackathon_nwhl.csv)
@@ -57,6 +49,14 @@
  <li>Y Coordinate 2 (y-coordinate of a secondary event detail, varies by event)</li>
 
 </ul>
+
+<br>
+
+<br>
+
+<h2>Tracking Data from Broadcast Video</h2>
+
+
 
 <br>
 
