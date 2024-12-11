@@ -17,10 +17,11 @@
 <h2>Summary</h2>
 <p>The dataset is comprised of Stathletes-tracked hockey event data from the AHL, as well as player tracking data generated from broadcast video. The included events have been translated from Stathletes’ raw data to enhance accessibility and interpretability. The various event types include shots, plays, takeaways, puck recoveries, dump ins, dump outs, zone entries, faceoffs and penalties. Event definitions may slightly differ from other sources. For each event, expanded details are provided and the relevant skaters and teams involved are indicated when necessary.</p>
 
-<h2>Contextual (Event) Data</h2>
-<p>Downloading the Data</p>
-[Game 1 Events](../main/pxp_womens_oly_2022_v2.csv) | [Game 1 Tracking](../main/hackathon_womens.csv) | [Game 1 Shifts](../main/hackathon_nwhl.csv)
+<h2>Downloading the Data
+[Data Folder](../main/pxp_womens_oly_2022_v2.csv)
+</h2>
 
+<h2>Event Data</h2>
 <ul>
   <li>Date (e.g. ‘2020-12-23’. Format = ‘yyyy-mm-dd’)</li>
   <li>Home Team (e.g. ‘Team A’)</li>
