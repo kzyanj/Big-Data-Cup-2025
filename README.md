@@ -31,28 +31,28 @@
 
 <ul>
   <li>Date (e.g. ‘2020-12-23’. Format = ‘yyyy-mm-dd’)</li>
-  <li>Home Team (e.g. ‘Toronto Maple Leafs’)</li>
-  <li>Away Team (e.g. ‘Boston Bruins’)</li>
+  <li>Home Team (e.g. ‘Team A’)</li>
+  <li>Away Team (e.g. ‘Team B’)</li>
   <li>Period (range from 1-3 for regulation, 4+ for overtime)</li>
   <li>Clock (e.g. ‘19:34’. Format = ‘mm:ss’)</li>
   <li>Home Team Skaters (range from 3-6 for home skaters currently on the ice)</li>
   <li>Away Team Skaters (range from 3-6 for away skaters currently on the ice)</li>
   <li>Home Team Goals (current goals scored by the home team at the time of the event)</li>
   <li>Away Team Goals (current goals scored by the away team at the time of the event)</li>
-  <li>Team (name of the team responsible for the event)</li>
-  <li>Player (name of the player responsible for the event)</li>
+  <li>Team (ID of the team responsible for the event)</li>
+  <li>Player (ID of the player responsible for the event)</li>
   <li>Event (type of event, e.g. ‘Play’, ‘Shot’, …)</li>
-  <li>X Coordinate (x-coordinate of where an event occurred on the ice, between 0 and 200)</li>
-  <li>Y Coordinate (y-coordinate of where an event occurred on the ice, between 0 and 85)</li>
+  <li>X Coordinate (x-coordinate of where an event occurred on the ice, between -100 and 100)</li>
+  <li>Y Coordinate (y-coordinate of where an event occurred on the ice, between -42.5 and 42.5)</li>
     <ul>
-      <li>Coordinates are always from the perspective of the eventing team</li>
+      <li>Coordinates are from the perspective of the camera</li>
     </ul>
   </li>
   </ul>
 <img src = "rink_coords.png"></img>
  <ul>
  <li>Detail 1-4 (up to 4 supplementary details for each event, varies by event type)</li>
- <li>Player 2 (name of a secondary player involved in an event, varies by event type)</li>
+ <li>Player 2 (ID of a secondary player involved in an event, varies by event type)</li>
  <li>X Coordinate 2 (x-coordinate of a secondary event detail, varies by event)</li>
  <li>Y Coordinate 2 (y-coordinate of a secondary event detail, varies by event)</li>
 
