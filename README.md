@@ -4,7 +4,7 @@
 <h2>Three Research Areas:</h2>
 <p>This year's Big Data Cup offers three exciting research areas to explore! Tracking data must be used in any project.</p>
 <p>Please identify in the title which area you will be focusing on:</p>
-<p><u>1. Team Coordination</u></p>
+<u>1. Team Coordination</u>
 <p>How do teams work together? Reveal valuable insights into team strategy and execution. Examples include:</p>
 <ul>
   <li>Zone breakouts</li>
