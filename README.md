@@ -1,5 +1,15 @@
 <h1>Big Data Cup Submission Guidelines</h1>
-
+<br>
+<h2>Submission Rules & Guidelines:</h2>
+<p>Maximum 6 pages, including figures (size limit 10GB on submission)</p>
+<p>Format of submission:</p>
+<ul>
+  <li>Define your thesis </li>
+  <li>Provide a summary of your methodology</li>
+  <li>Give an overview of your findings</li>
+  <li>Identify key action points from your analysis</li>
+  <li>Code may be included as an appendix</li>
+</ul>
 <br>
 <h2>Three Research Areas:</h2>
 <p>This year's Big Data Cup offers three exciting research areas to explore! Tracking data must be used in any project.</p>
@@ -28,7 +38,6 @@
 </ul>
 <p>Note: These examples are just starting points. Let your creativity shine!</p>
 <br>
-
 <h1>Dataset</h1>
 <h2>Summary</h2>
 <p>The dataset is comprised of Stathletes-tracked hockey event data, as well as player tracking data generated from broadcast video. The included events have been translated from Stathletes’ raw data to enhance accessibility and interpretability. The various event types include shots, plays, takeaways, puck recoveries, dump ins, dump outs, zone entries, faceoffs and penalties. Event definitions may slightly differ from other sources. For each event, expanded details are provided and the relevant skaters and teams involved are indicated when necessary.</p>
