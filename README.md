@@ -19,6 +19,14 @@
   <li>Stamina over long shifts and throughout a game</li>
   <li>Movement profile when skating versus without the puck</li>
 </ul>
+<b>3. Player Movement</b>
+<p>How do players' on-puck and off-puck movements influence team dynamics and game outcomes? Develop a better understanding of player actions and their ripple effects on the ice. Examples include:</p>
+<ul>
+  <li>Creating space for themselves and teammates while on the puck</li>
+  <li>Defensive anticipation and positioning</li>
+  <li>Offensive off-puck awareness and positioning</li>
+</ul>
+<p>Note: These examples are just starting points. Let your creativity shine!</p>
 <br>
 
 <h1>Dataset</h1>
