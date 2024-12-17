@@ -1,5 +1,4 @@
 <h1>Big Data Cup Submission Guidelines</h1>
-<br>
 <h2>Submission Rules & Guidelines:</h2>
 <p>Maximum 6 pages, including figures (size limit 10GB on submission)</p>
 <p>Format of submission:</p>
