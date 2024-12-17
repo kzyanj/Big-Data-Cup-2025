@@ -12,6 +12,13 @@
   <li>Transition play</li>
   <li>Special teams configurations</li>
 </ul>
+<b>2. Skating Ability</b>
+<p>How can skating be evaluated aside from speed? Redefine how skating ability is viewed to offer teams a deeper understanding of player performance. Examples include:</p>
+<ul>
+  <li>Skating agility and lateral movement</li>
+  <li>Stamina over long shifts and throughout a game</li>
+  <li>Movement profile when skating versus without the puck</li>
+</ul>
 <br>
 
 <h1>Dataset</h1>
