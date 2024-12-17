@@ -1,9 +1,9 @@
 <h1>Big Data Cup Submission Guidelines</h1>
 
 <br>
-<h2>Submission Rules & Guidelines:</h2>
-<p>Maximum 6 pages, including figures (size limit 10GB on submission)</p>
-<p>Format of submission:</p>
+<h2>Three Research Areas:</h2>
+<p>This year's Big Data Cup offers three exciting research areas to explore! Tracking data must be used in any project.</p>
+<p>Please identify in the title which area you will be focusing on:</p>
 <ul>
   <li>Define your thesis </li>
   <li>Provide a summary of your methodology</li>
